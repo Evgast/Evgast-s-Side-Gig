@@ -17,6 +17,15 @@ return {
                 "{C:inactive}(Currently {C:attention}#1#/#2#{C:inactive})"
 		        }
             },
+                j_scrut_rules = {
+                    name = "Rouxls Kaard",
+		            text = {
+			    "Forms a {C:spades}Throuple{} with", 
+                "adjacent {C:attention}Jokers{},",
+                "{C:green}1 in 2{} chance to copy a",
+                "{X:spades,C:attention}Throuple Joker{}",
+		        }
+            },
         },
             Other={
                 scrut_pipis_seal = {

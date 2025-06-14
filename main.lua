@@ -1,4 +1,10 @@
 
+SMODS.current_mod.optional_features = function()
+    return {
+        post_trigger = true,
+    }
+end
+
 SMODS.Atlas {
 	key = "scrut",
 	path = "scrut.png",
@@ -23,4 +29,5 @@ SMODS.Atlas {
 SMODS.load_file("content/scrut.lua")()
 SMODS.load_file("content/mpreg.lua")()
 SMODS.load_file("content/pipis.lua")()
+SMODS.load_file("content/rules.lua")()
 
