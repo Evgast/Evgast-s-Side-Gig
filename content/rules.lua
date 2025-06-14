@@ -5,7 +5,7 @@ SMODS.Joker {
 	atlas = 'mpreg',
 	pos = { x = 2, y = 0 },
 	soul_pos = { x = 3, y = 0 },
-	cost = 6,
+	cost = 10,
 	blueprint_compat = true,
 	eternal_compat = false,
 	perishable_compat = false,
