@@ -1,0 +1,11 @@
+{
+	"id": "scrut",
+	"name": "Evgast's Side Gig",
+	"author": ["Evgast!"],
+	"description": "Originally Scrut'nmod!",
+	"prefix": "scrut",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "#8d1a91",
+	"version": "0.0.0"
+}
